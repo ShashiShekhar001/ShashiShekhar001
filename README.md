@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShashiShekhar001
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning backend developmen
+- 🌱 I’m currently learning backend development
 
 <!---
 ShashiShekhar001/ShashiShekhar001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
