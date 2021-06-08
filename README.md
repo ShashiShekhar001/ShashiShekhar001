@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShashiShekhar001
+- 👋 𝐇𝐢, 𝐈’𝐦 𝐒𝐡𝐚𝐬𝐡𝐢 𝐬𝐡𝐞𝐤𝐡𝐚𝐫
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning backend development
 
